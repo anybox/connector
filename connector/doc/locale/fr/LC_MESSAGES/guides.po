@@ -105,7 +105,7 @@ msgid ""
 "connector.py`` in which you will call the ``install_in_connector`` function::"
 msgstr ""
 "Chaque nouveau module doit être branché dans le framework du connecteur. "
-"C'est juste un question de suivre une convention et créer un fichier "
+"C'est juste une question de suivre une convention et créer un fichier "
 "``connector_coffee/connector.py`` dans lequel vous allez appeler la fonction "
 "``install_in_connector``::"
 
