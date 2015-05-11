@@ -334,7 +334,7 @@ msgstr ""
 "enregistrement externe. Il n'y a pas d'obligation pour l'implémentation des "
 "``liaisons``. Les techniques les plus évidentes sont: stocker les ID "
 "externes dans le même modèle (``account.invoice``), dans un modèle de "
-"liaison ou dans un modèle de laison qui ``_inherits`` ``account.invoice``. "
+"liaison ou dans un modèle de liaison qui ``_inherits`` ``account.invoice``. "
 "Ici nous choisissons la dernière solution ::"
 
 #: ../../guides/code_overview.rst:55 ../../guides/concepts.rst:88

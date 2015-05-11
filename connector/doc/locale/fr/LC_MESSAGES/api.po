@@ -236,7 +236,7 @@ msgid ""
 "Replace a :py:class:`~connector.connector.ConnectorUnit` by another one in a"
 " backend::"
 msgstr ""
-"Remplace une clase :py:class:`~connector.connector.ConnectorUnit` par une "
+"Remplace une classe :py:class:`~connector.connector.ConnectorUnit` par une "
 "autre dans le backend ::"
 
 #: ../../../backend.pydocstring of connector.backend.Backend:107
@@ -951,11 +951,11 @@ msgstr "Il doit être appelé une fois par module OpenERP à brancher."
 #: connector.connector.install_in_connector:5
 msgid ""
 "Under the cover, it creates a ``openerp.models.AbstractModel`` whose name is"
-" the name of the module with a ``.intalled`` suffix: "
+" the name of the module with a ``.installed`` suffix: "
 "``{name_of_the_openerp_module_to_install}.installed``."
 msgstr ""
 "Pour être précis, il crée un ``openerp.models.AbstractModel`` dont le nom "
-"est le nom du module avec un suffixe ``.intalled`` : "
+"est le nom du module avec un suffixe ``.installed`` : "
 "``{name_of_the_openerp_module_to_install}.installed``."
 
 #: ../../../connector.pydocstring of
